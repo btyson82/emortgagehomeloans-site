@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="110" viewBox="0 0 520 110" role="img" aria-label="E Mortgage Home Loans">
+  <rect width="520" height="110" rx="10" fill="#ffffff"/>
+  <circle cx="56" cy="52" r="34" fill="#1f5d8f"/>
+  <text x="56" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#ffffff">E</text>
+  <text x="100" y="58" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f28a2e">mortgage</text>
+  <rect x="102" y="67" width="243" height="28" rx="3" fill="#1f5d8f"/>
+  <text x="223" y="87" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#ffffff">HOME LOANS</text>
+</svg>
